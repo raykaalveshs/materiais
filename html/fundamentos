@@ -1,0 +1,45 @@
+FUNDAMENTOS INDEX.HTML
+
+------------------------
+
+<!-- DIZ AO NAVEGADOR QUE O SITE USA HTML5 -->
+<!DOCTYPE html>
+
+------------------------
+
+<html lang="pt-br">
+
+------------------------
+
+<!-- Contém informações invisíveis da página, como: título, charset, links de CSS, SEO ou scripts -->
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+------------------------
+
+<!-- Aqui fica tudo que aparece para o usuário: textos, imagens, botões ou formulários -->
+<body>
+
+    <!-- TOPO DO SITE / CABEÇALHO -->
+    <header>
+        <h1>Bem-vindo ao site</h1> <!-- título principal -->
+    </header>
+
+    <!-- CONTEÚDO PRINCIPAL -->
+    <main>
+        <p>Parágrafo.</p>
+    </main>
+
+    <!-- RODAPÉ -->
+    <footer>
+        <p>Parágrafo</p>
+    </footer>
+
+</body>
+
+------------------------
+
+</html>
