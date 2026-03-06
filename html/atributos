@@ -1,0 +1,106 @@
+ATRIBUTOS:
+
+--------------------------------
+
+CLASS (USADO QUANDO PODE REPETIR):
+
+<div class="quarto">
+    <h2>Quarto Luxo</h2>
+</div>
+
+<div class="quarto">
+    <h2>Quarto Premium</h2>
+</div>
+
+--------------------------------
+
+ID (USADO QUANDO O ELEMENTO É ÚNICO):
+
+Usado quando existe apenas um elemento daquele tipo na página.
+
+<div id="banner">
+    <h1>Promoção de Verão</h1>
+</div>
+
+--------------------------------
+
+HREF (USADO EM LINKS):
+
+Define para onde o link leva o usuário.
+
+<a href="https://google.com">Ir para o Google</a>
+
+--------------------------------
+
+SRC (USADO EM IMAGENS):
+
+Define o caminho da imagem.
+
+<img src="hotel.jpg" alt="foto do hotel">
+
+--------------------------------
+
+ALT (DESCRIÇÃO DA IMAGEM):
+
+Usado para descrever a imagem.
+
+<img src="hotel.jpg" alt="foto do hotel">
+
+--------------------------------
+
+TYPE (DEFINE O TIPO DO INPUT):
+
+<input type="text">
+<input type="email">
+<input type="password">
+
+--------------------------------
+
+PLACEHOLDER (TEXTO DENTRO DO CAMPO):
+
+Texto que aparece dentro do campo antes de digitar.
+
+<input type="text" placeholder="Digite seu nome">
+
+--------------------------------
+
+NAME (IDENTIFICA O DADO DO FORMULÁRIO):
+
+Usado para enviar dados ao backend.
+
+<input type="email" name="email">
+
+--------------------------------
+
+VALUE (VALOR PADRÃO):
+
+Define um valor inicial no campo.
+
+<input type="text" value="Rayka">
+
+--------------------------------
+
+LABEL + FOR (CONECTA TEXTO COM INPUT):
+
+<label for="nome">Nome:</label>
+<input type="text" id="nome">
+
+--------------------------------
+
+SELECT + OPTION (LISTA DE OPÇÕES):
+
+<select>
+<option>Luxo</option>
+<option>Premium</option>
+<option>Standard</option>
+</select>
+
+--------------------------------
+
+OPTION SELECTED (OPÇÃO PADRÃO):
+
+<select>
+<option>Luxo</option>
+<option selected>Premium</option>
+<option>Standard</option>
+</select>
