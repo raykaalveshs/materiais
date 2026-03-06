@@ -1,0 +1,158 @@
+TAGS IMPORTANTES
+
+--------------------------------
+
+SEPARAR SEÇÕES:
+
+<div>
+    <h1>Grand Horizon Hotel</h1>
+</div>
+
+<div>
+    <p>Bem-vindo ao nosso hotel.</p>
+</div>
+
+DIV COM CLASS (QUANDO PODE REPETIR):
+
+<div class="quartos">
+    <h2>Quartos disponíveis</h2>
+    <p>Luxo, Premium e Standard.</p>
+</div>
+
+DIV COM ID (QUANDO É UM ELEMENTO ÚNICO):
+
+<div id="banner">
+    <h1>Promoção de Verão</h1>
+</div>
+
+--------------------------------
+
+MENU DE NAVEGAÇÃO:
+
+<nav>
+    <a href="#">Início</a>
+    <a href="#">Quartos</a>
+    <a href="#">Contato</a>
+</nav>
+
+--------------------------------
+
+SEÇÃO DO SITE:
+
+<section>
+    <h2>Sobre o hotel</h2>
+    <p>Nosso hotel oferece conforto e luxo.</p>
+</section>
+
+--------------------------------
+
+TEXTOS:
+
+<h1>Título principal</h1>
+<h2>Subtítulo</h2>
+<h3>Seção menor</h3>
+**<h1> Até <h6>**
+
+<p>Este é um parágrafo de texto.</p>
+
+--------------------------------
+
+CAMPO DE ENTRADA(cria uma caixinha para inserção de texto):
+
+<input type="text">
+<input type="email">
+<input type="password">
+
+--------------------------------
+
+BOTÃO:
+
+<button>Reservar</button>
+
+--------------------------------
+
+DECORAÇÕES:
+
+Quebra de linha:
+<p>Linha 1<br>Linha 2</p>
+
+Linha separadora:
+<hr>
+
+Negrito:
+<p>Este hotel tem <strong>luxo e conforto</strong> para os hóspedes.</p>
+
+Itálico:
+<p>Nosso hotel é <em>muito recomendado</em> pelos clientes.</p>
+
+--------------------------------
+
+LINKS:
+
+<a href="https://google.com">Ir para o Google</a>
+
+--------------------------------
+
+IMAGEM:
+
+<img src="hotel.jpg" alt="foto do hotel">
+
+--------------------------------
+
+LISTAS:
+
+Com pontos:
+<ul>
+<li>Wi-Fi</li>
+<li>Piscina</li>
+<li>Café da manhã</li>
+</ul>
+
+Com numeração:
+<ol>
+<li>Escolher quarto</li>
+<li>Reservar</li>
+<li>Pagar</li>
+</ol>
+
+--------------------------------
+
+FORMULÁRIO:
+
+<form>
+
+<label>Nome:</label>
+<input type="text">
+
+<label>Email:</label>
+<input type="email">
+
+<label>Tipo de quarto:</label>
+<select>
+<option>Luxo</option>
+<option>Premium</option>
+<option>Standard</option>
+</select>
+
+<button>Enviar</button>
+
+</form>
+
+--------------------------------
+
+LABEL (TEXTO QUE IDENTIFICA UM CAMPO DE FORMULÁRIO):
+
+<label>Nome:</label>
+<input type="text">
+
+--------------------------------
+
+SELECT (LISTA DE OPÇÕES PARA O USUÁRIO ESCOLHER):
+
+<select>
+<option>Luxo</option>
+<option>Premium</option>
+<option>Standard</option>
+</select>
+
+--------------------------------
